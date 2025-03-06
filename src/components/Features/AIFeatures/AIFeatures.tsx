@@ -5,7 +5,7 @@ import VideoSwitcher from './VideoSwitcher';
 
 const AIFeatures: React.FC = () => {
     return (
-        <div className="flex flex-col justify-center md:pb-36 pb-16 max-w-6xl mx-auto px-8 md:px-0">
+        <div id="ai-features" className="flex flex-col justify-center md:pb-36 pb-16 max-w-6xl mx-auto px-8 md:px-0">
             <div className='flex flex-col gap-2 mb-12'>
                 <div className='flex items-center gap-2 font-semibold text-gray-800 text-md'><HiSparkles /><p>Raven AI</p></div>
                 <h2 className='text-4xl sm:text-4xl md:text-5xl font-calsans'>
