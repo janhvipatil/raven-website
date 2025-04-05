@@ -79,7 +79,7 @@ const VideoWithPlayButton = () => {
                 poster={'assets/HeroVideoCover.webp'}
                 className="rounded-md md:rounded-xl border border-gray-200 object-cover"
                 width={1000}
-                src={'https://firebasestorage.googleapis.com/v0/b/raven-dev-frappe.appspot.com/o/public%2FHeroVideo.mp4?alt=media'}
+                src={'https://raven-website-bucket.s3.ap-south-1.amazonaws.com/HeroVideo-2.mp4'}
                 muted
                 playsInline
                 onClick={togglePlayPause}

@@ -35,7 +35,7 @@ const IntegrationsBento: React.FC = () => {
                     <ContentCard
                         title="Ravens also deliver to your desk."
                         subtitle="The desk interface has a quick chat box for moments when you need to see your messages without losing context."
-                        videoSrc="https://firebasestorage.googleapis.com/v0/b/raven-dev-frappe.appspot.com/o/public%2FRavenInDesk.mp4?alt=media"
+                        videoSrc="https://raven-website-bucket.s3.ap-south-1.amazonaws.com/RavenInDesk.mp4"
                         poster="assets/RavenInDeskPreview.webp"
                     />
                 </div>
