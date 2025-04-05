@@ -8,6 +8,7 @@ import Navbar from "@/components/Navbar/Navbar";
 import OpenSource from "@/components/Features/OpenSource/OpenSource";
 import FeaturesBentoGrid from "@/components/Features/BaseFeatures/FeaturesBentoGrid";
 import FeatureSwitcher from "@/components/Features/NotableFeatures/FeatureSwitcher";
+import MobileApp from "@/components/Features/MobileApp/MobileApp";
 
 
 export default function Home() {
@@ -22,6 +23,7 @@ export default function Home() {
       <RavenGraphic />
       <OpenSource />
     </div>
+    <MobileApp />
     <Banner />
     <Footer />
   </div>

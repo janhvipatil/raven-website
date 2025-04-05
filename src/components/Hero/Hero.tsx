@@ -60,7 +60,7 @@ const Hero: FC = () => {
                         </a>
                     </div>
                     <p className="text-[14px] text-gray-600 mt-4 md:mt-6">
-                        200+ active sites on Frappe Cloud 🚀
+                        350+ active sites on Frappe Cloud 🚀
                     </p>
 
                     {/* Video */}
