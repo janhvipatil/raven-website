@@ -43,7 +43,7 @@ const Hero: FC = () => {
                     {/* CTA */}
                     <div className="space-x-4 z-10">
                         <a
-                            href="https://frappecloud.com/marketplace/apps/raven"
+                            href="https://cloud.frappe.io/dashboard/signup?product=raven"
                             target="_blank"
                             rel="noreferrer"
                             className="px-4 py-2 md:py-3 text-base bg-black text-white rounded-lg transition-all duration-200 hover:bg-gradient-to-b hover:from-gray-700 hover:to-gray-800 hover:shadow-lg"
