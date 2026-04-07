@@ -79,7 +79,7 @@ export default function Navbar() {
 
                     {/* Start for free button */}
                     <div className="hidden sm:flex sm:space-x-4 sm:items-center pt-3">
-                        <Link href={'https://frappecloud.com/marketplace/apps/raven'} target='_blank' rel='noreferrer'
+                        <Link href={'https://cloud.frappe.io/dashboard/signup?product=raven'} target='_blank' rel='noreferrer'
                             className="bg-black text-white px-3 py-1.5 text-sm rounded-md transition-all duration-200 hover:bg-gradient-to-b hover:from-gray-700 hover:to-gray-800 hover:shadow-md">
                             Start for free
                         </Link>
@@ -104,7 +104,7 @@ export default function Navbar() {
                             <Link href="https://www.linkedin.com/company/the-commit-company" className="block text-gray-800 hover:text-black font-medium" onClick={toggleMenu}>
                                 About
                             </Link>
-                            <Link href={'https://frappecloud.com/marketplace/apps/raven'} target='_blank' rel='noreferrer'
+                            <Link href={'https://cloud.frappe.io/dashboard/signup?product=raven'} target='_blank' rel='noreferrer'
                                 className="bg-black text-white px-3 py-1.5 text-sm rounded-md transition-all duration-200 hover:bg-gradient-to-b hover:from-gray-700 hover:to-gray-800 hover:shadow-md">
                                 Start for free
                             </Link>
