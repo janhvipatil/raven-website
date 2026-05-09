@@ -50,14 +50,6 @@ const Hero: FC = () => {
                         >
                             Get started
                         </a>
-                        <a
-                            href="https://cal.com/nikkothari22/send-a-raven"
-                            target="_blank"
-                            rel="noreferrer"
-                            className="px-4 py-2 md:py-3 text-base bg-white border border-gray-300 text-gray-800 rounded-lg transition-all duration-200 hover:border-gray-800 hover:shadow-md"
-                        >
-                            Request a demo
-                        </a>
                     </div>
                     <p className="text-[14px] text-gray-600 mt-4 md:mt-6">
                         350+ active sites on Frappe Cloud 🚀
